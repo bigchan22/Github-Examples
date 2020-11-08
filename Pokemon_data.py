@@ -8,3 +8,6 @@ class Pokemon:
         self.contact=0
         self.defense=0
         self.speed=0
+class Tortoise(Pokemon):
+    def __init__(self):
+        pass
