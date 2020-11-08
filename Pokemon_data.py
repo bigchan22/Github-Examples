@@ -11,3 +11,7 @@ class Pokemon:
 class Tortoise(Pokemon):
     def __init__(self):
         pass
+
+class Pikachu(Pokemon):
+    def __init__(self):
+        pass
