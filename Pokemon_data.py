@@ -10,7 +10,7 @@ class Pokemon:
         self.speed=0
 class Tortoise(Pokemon):
     def __init__(self):
-        self.level=5
+        self.level=16
         self.exp_point=0
         self.health=0
         self.attack=0
