@@ -1,2 +1,5 @@
 class Skill:
-    pass
+    def __init__(self):
+        self.attackpoint=100
+
+        
